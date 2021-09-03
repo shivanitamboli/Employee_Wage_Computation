@@ -1,0 +1,14 @@
+.vs/EmployeeWageComputation/v16/.suo
+App.config
+Program.cs
+Properties/AssemblyInfo.cs
+bin/Debug/EmployeeWageComputation.exe
+bin/Debug/EmployeeWageComputation.exe.config
+bin/Debug/EmployeeWageComputation.pdb
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/EmployeeWageComputation.csproj.AssemblyReference.cache
+obj/Debug/EmployeeWageComputation.csproj.CoreCompileInputs.cache
+obj/Debug/EmployeeWageComputation.csproj.FileListAbsolute.txt
+obj/Debug/EmployeeWageComputation
+obj/Debug/EmployeeWageComputation.pdb

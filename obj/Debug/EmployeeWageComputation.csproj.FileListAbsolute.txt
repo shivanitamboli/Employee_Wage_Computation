@@ -1,0 +1,7 @@
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.AssemblyReference.cache
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe.config
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.pdb
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.exe
+C:\Users\tambo\Desktop\Batch058\EmployeeWage\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.pdb
