@@ -14,6 +14,8 @@ namespace EmployeeWageComputation.EmployeeWageProblem
             Console.WriteLine("Welcome To Employee Wage");
             Console.ReadKey();
 
+
+
         }
     }
 }
